@@ -5,6 +5,7 @@ const Figma = require('figma-js')
 const PQueue = require('p-queue')
 require('dotenv').config()
 const {FIGMA_TOKEN, FIGMA_FILE_URL} = process.env
+process.e
 
 const options = {
   format: 'svg',

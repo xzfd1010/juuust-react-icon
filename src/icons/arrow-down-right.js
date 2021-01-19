@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const Clock = props => {
+const ArrowDownRight = props => {
   const { color, size, ...otherProps } = props;
   return (
     <svg
@@ -15,25 +15,20 @@ const Clock = props => {
       <path
         fillRule="evenodd"
         clipRule="evenodd"
-        d="M12 3a9 9 0 100 18 9 9 0 000-18zM1 12C1 5.925 5.925 1 12 1s11 4.925 11 11-4.925 11-11 11S1 18.075 1 12z"
-      ></path>
-      <path
-        fillRule="evenodd"
-        clipRule="evenodd"
-        d="M12 5a1 1 0 011 1v5.382l3.447 1.724a1 1 0 11-.894 1.788l-4-2A1 1 0 0111 12V6a1 1 0 011-1z"
+        d="M7.707 6.293a1 1 0 00-1.414 1.414L14.586 16H7a1 1 0 100 2h10.003a.996.996 0 00.71-.3.997.997 0 00.287-.697V7a1 1 0 10-2 0v7.586L7.707 6.293z"
       ></path>
     </svg>
   );
 };
 
-Clock.propTypes = {
+ArrowDownRight.propTypes = {
   color: PropTypes.string,
   size: PropTypes.oneOfType([PropTypes.string, PropTypes.number])
 };
 
-Clock.defaultProps = {
+ArrowDownRight.defaultProps = {
   color: 'currentColor',
   size: '24'
 };
 
-export default Clock;
+export default ArrowDownRight;
