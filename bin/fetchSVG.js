@@ -5,7 +5,6 @@ const Figma = require('figma-js')
 const PQueue = require('p-queue')
 require('dotenv').config()
 const {FIGMA_TOKEN, FIGMA_FILE_URL} = process.env
-process.e
 
 const options = {
   format: 'svg',
@@ -25,7 +24,7 @@ if(!FIGMA_TOKEN) {
 }
 
 const client = Figma.Client({
-  personalAccessToken: FIGMA_TOKEN
+personalAccessToken: FIGMA_TOKEN
 })
 
 // Fail if there's no figma file key

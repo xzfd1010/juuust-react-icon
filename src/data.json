@@ -1,1 +1,62 @@
-{"1:6":{"name":"arrow-down-right","id":"1:6","key":"f4189f3c2a1aaec156f4d68205f622fdf06391d1","file":"YBH50m2oCamz7szlIItg4H","description":"","width":24,"height":24,"image":"https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/933b/c047/5997fbdb95b9d46bdd0fc48aac42560d"},"1:10":{"name":"arrow-left","id":"1:10","key":"89ad3a69beecca81b325fdf21a42e708ba185712","file":"YBH50m2oCamz7szlIItg4H","description":"","width":24,"height":24,"image":"https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a410/6b9c/03db7d7219b402ad92f2d3b3513edac3"},"1:14":{"name":"arrow-left-circle","id":"1:14","key":"168ae1b86250e03b11cacd7c4e524536abe4cac6","file":"YBH50m2oCamz7szlIItg4H","description":"","width":24,"height":24,"image":"https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e133/f446/abad2d94dc2bd37cb688c9a4a53fb78b"},"1:16":{"name":"arrow-right","id":"1:16","key":"ecace688c4ed280de6c76eece13eb8dceacaf89b","file":"YBH50m2oCamz7szlIItg4H","description":"","width":24,"height":24,"image":"https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ac05/7a74/9adb1a3c66dfeb78da018ee55bb68bf1"},"1:20":{"name":"arrow-right-circle","id":"1:20","key":"88cf73196ea9d90bb3edb7ffca41d00b3e077f3e","file":"YBH50m2oCamz7szlIItg4H","description":"","width":24,"height":24,"image":"https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/77b0/9c00/ff1ac99b006f2cda55429384dcab9916"},"1:22":{"name":"arrow-up","id":"1:22","key":"2fe79b84362ec97738a296043ea6aeaa31bc03c5","file":"YBH50m2oCamz7szlIItg4H","description":"","width":24,"height":24,"image":"https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/976a/546d/07f5993d43a0ff3bc0212c942779db1d"}}
+{
+  "1:6": {
+    "name": "arrow-down-right",
+    "id": "1:6",
+    "key": "f4189f3c2a1aaec156f4d68205f622fdf06391d1",
+    "file": "YBH50m2oCamz7szlIItg4H",
+    "description": "",
+    "width": 24,
+    "height": 24,
+    "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/933b/c047/5997fbdb95b9d46bdd0fc48aac42560d"
+  },
+  "1:10": {
+    "name": "arrow-left",
+    "id": "1:10",
+    "key": "89ad3a69beecca81b325fdf21a42e708ba185712",
+    "file": "YBH50m2oCamz7szlIItg4H",
+    "description": "",
+    "width": 24,
+    "height": 24,
+    "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/a410/6b9c/03db7d7219b402ad92f2d3b3513edac3"
+  },
+  "1:14": {
+    "name": "arrow-left-circle",
+    "id": "1:14",
+    "key": "168ae1b86250e03b11cacd7c4e524536abe4cac6",
+    "file": "YBH50m2oCamz7szlIItg4H",
+    "description": "",
+    "width": 24,
+    "height": 24,
+    "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/e133/f446/abad2d94dc2bd37cb688c9a4a53fb78b"
+  },
+  "1:16": {
+    "name": "arrow-right",
+    "id": "1:16",
+    "key": "ecace688c4ed280de6c76eece13eb8dceacaf89b",
+    "file": "YBH50m2oCamz7szlIItg4H",
+    "description": "",
+    "width": 24,
+    "height": 24,
+    "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/ac05/7a74/9adb1a3c66dfeb78da018ee55bb68bf1"
+  },
+  "1:20": {
+    "name": "arrow-right-circle",
+    "id": "1:20",
+    "key": "88cf73196ea9d90bb3edb7ffca41d00b3e077f3e",
+    "file": "YBH50m2oCamz7szlIItg4H",
+    "description": "",
+    "width": 24,
+    "height": 24,
+    "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/77b0/9c00/ff1ac99b006f2cda55429384dcab9916"
+  },
+  "1:22": {
+    "name": "arrow-up",
+    "id": "1:22",
+    "key": "2fe79b84362ec97738a296043ea6aeaa31bc03c5",
+    "file": "YBH50m2oCamz7szlIItg4H",
+    "description": "",
+    "width": 24,
+    "height": 24,
+    "image": "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/976a/546d/07f5993d43a0ff3bc0212c942779db1d"
+  }
+}
